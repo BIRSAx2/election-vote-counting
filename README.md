@@ -1,6 +1,6 @@
 # Vote
 
-Terminal based election vote counting app written in 
+Terminal based election vote counting app written in Elixir
 
 ## Installation
 
